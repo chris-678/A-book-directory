@@ -4,4 +4,5 @@
 
 
 # password
+.env
 /config.env
